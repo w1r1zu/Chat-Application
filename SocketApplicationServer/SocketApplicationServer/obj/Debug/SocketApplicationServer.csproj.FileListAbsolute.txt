@@ -1,0 +1,1 @@
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\bin\Debug\SocketApplicationServer.exe.config
