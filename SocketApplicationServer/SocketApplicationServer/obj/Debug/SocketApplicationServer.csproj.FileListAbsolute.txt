@@ -1,1 +1,6 @@
 G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\bin\Debug\SocketApplicationServer.exe.config
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\bin\Debug\SocketApplicationServer.exe
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\bin\Debug\SocketApplicationServer.pdb
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\obj\Debug\SocketApplicationServer.csprojResolveAssemblyReference.cache
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\obj\Debug\SocketApplicationServer.exe
+G:\Systems (Personal)\C# (Windows Forms)\Sockets\SocketApplicationServer\SocketApplicationServer\obj\Debug\SocketApplicationServer.pdb
